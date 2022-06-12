@@ -1,7 +1,7 @@
 # 👋 Hi there, i'm Helena!
 
 ## About me
-- 🌱 I'm a 23 year old Front-End Developer student living in Norway
+- 🌱 I'm a 23 year old Front-End Development student living in Norway
 - 🎓 Im currently finishing my two year online Front-End Development degree at Noroff - School of Technology and Media
 - 🖌 For the next year I'll be studying UI-design at the same school 
 - 🪁 My interests outside coding mainly consists of hiking, reading and playing video games 
